@@ -14,4 +14,4 @@
 * CSS
 
 ## Screenshots
-![Screenshot da tela inicial do AluraBook](https://github.com/AnaKercia1/AluraBook/assets/123599474/15b15d95-d5bb-4533-a22e-8c02d182dd5c))
+![Screenshot da tela inicial do AluraBook](https://github.com/AnaKercia1/AluraBook/assets/123599474/15b15d95-d5bb-4533-a22e-8c02d182dd5c#vitrinedev))
